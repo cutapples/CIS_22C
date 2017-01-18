@@ -1,0 +1,4 @@
+﻿  Currency.cpp
+d:\documents\github\cis_22c\cis22c_lab1_jamesmay\cis22c_lab1_jamesmay\currency.cpp(8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CIS22C_Lab1_JamesMay.vcxproj -> D:\Documents\GitHub\CIS_22C\CIS22C_Lab1_JamesMay\Debug\CIS22C_Lab1_JamesMay.exe
+  CIS22C_Lab1_JamesMay.vcxproj -> D:\Documents\GitHub\CIS_22C\CIS22C_Lab1_JamesMay\Debug\CIS22C_Lab1_JamesMay.pdb (Partial PDB)
